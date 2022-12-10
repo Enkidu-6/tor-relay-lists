@@ -10,6 +10,10 @@
 
 [Tor Authorities IPV6](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/authorities-v6.txt)
 
+[Snowflake](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/snowflake.txt)
+
+[Snowflake IPV6](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/snowflake-v6.txt)
+
 [All Relays IPV4](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/relays-v4.txt)
 
 [All Relays IPV6](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/relays-v6.txt)
