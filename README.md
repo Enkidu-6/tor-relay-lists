@@ -30,9 +30,9 @@
 
 [Relays with 2 Tor instances per IP IPV6](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/2-or-v6.txt)
 
-[Relays with 3 to 4 Tor instances per IP](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/above2-or.txt)
+[Relays with 3 or more Tor instances per IP](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/above2-or.txt)
 
-[Relays with 3 to 4 Tor instances per IP IPV6](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/above2-or-v6.txt)
+[Relays with 3 or more Tor instances per IP IPV6](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/above2-or-v6.txt)
 
 [Guard Relays](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/guards.txt)
 
