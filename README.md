@@ -2,7 +2,7 @@
 
 **Individual IPV4 and IPV6 lists of Tor Relays and Exits.**
 
-**Updated every 30 minutes at 3 minutes past the top and bottom of each hour.**
+**Updated every 30 minutes at the top and bottom of each hour.**
 
 [Currently Oveloaded Relays](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/overloaded.txt)
 
