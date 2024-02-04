@@ -41,4 +41,3 @@
 [Relays with HSDir flag](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/hsdir.txt)
 
 [Relays that are Guards, Exits and HSDir at the same time](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/guard-hsdir-exit.txt)
-
