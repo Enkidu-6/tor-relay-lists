@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-seo-tag
 title: Tor Relay lists. Updated lists of Tor Relays.
-description: Comprehensive IPV4 and IPV6 lists of Tor relays separated by their flags, e.g. Exit, Guard, HSDIR, Overloaded, snowflake and Tor Authorities.
+description: Comprehensive IPV4 and IPV6 lists of Tor relays separated by their flags, e.g. Exit, Guard, HSDIR and Overloaded relays plus Snowflake and Tor Authorities.
 author: Enkidu-6
