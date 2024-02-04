@@ -1,7 +1,7 @@
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-- jekyll-seo-tag
+
 <title> Tor relay list | Automatically updated lists of Tor Relays</title>
 <description> Comprehensive IPV4 and IPV6 lists of Tor relays separated by their flags, e.g. Exit, Guard, HSDIR, Overloaded, snowflake and Tor Authorities.</description>
 <author> Enkidu-6</author>
