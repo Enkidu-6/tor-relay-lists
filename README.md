@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 # Tor-Relay-Lists
 
 **Individual IPV4 and IPV6 lists of Tor Relays and Exits.**
