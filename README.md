@@ -22,9 +22,9 @@
 
 [All Exit Nodes IPV6](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/exits-v6.txt)
 
-[All Relays with multiple Tor instances per IP](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/dual-or.txt)
+[All Relays with multiple Tor instances per IP](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/above1-or.txt)
 
-[All Relays with multiple Tor instances per IP IPV6](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/dual-or-v6.txt)
+[All Relays with multiple Tor instances per IP IPV6](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/above1-or-v6.txt)
 
 [Relays with 2 Tor instances per IP](https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/main/2-or.txt)
 
